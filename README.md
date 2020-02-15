@@ -1,7 +1,7 @@
 # Finding Donors for CharityML
 
 ## About
-This project makes use of a sample dataset to determine who makes more than $50,000 in a year, and it thus more likely to donate to a fictitious charity.
+This project makes use of a sample dataset to determine who makes more than $50,000 in a year, and is thus more likely to donate to a fictitious charity.
 
 ## Prerequisites
 
